@@ -8,6 +8,4 @@ const dates = [
   new Date('April 25, 1954'),
 ]
 
-// const date = new Date('October 2, 1965')
-
 console.log(increaseAndFormatDate(dates))
